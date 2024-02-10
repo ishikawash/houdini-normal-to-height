@@ -1,6 +1,8 @@
 houdini-normal-to-height
 ===
 
+![beethoven](beethoven.gif)
+
 This is a demo of computing a height map from a normal map using the Poisson equation.
 For self-learning, I remade a similar program based on prior examples on the Internet.
 
